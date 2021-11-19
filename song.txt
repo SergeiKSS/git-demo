@@ -6,3 +6,5 @@ on this their chosen battle field
 new text from feature branch
 
 new line
+
+new line with conflict
